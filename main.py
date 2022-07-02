@@ -1,5 +1,5 @@
-# DISCORD: GEETTYOS#0001
-# GITHUB: https://github.com/geettyos/
+# Github: https://github.com/geettyos/
+# Discord: GEETTYOS#0001
 #This script was made for educational purposes, I am not responsible for your actions using this script. This script was made for educational purposes.
 
 from follow_bot import spotify
