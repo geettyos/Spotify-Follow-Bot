@@ -4,7 +4,7 @@
   # Spotify Follow Bot
   Requests based multi-threaded script for increasing followers on Spotify. Click <a href="https://github.com/geettyos/Spotify-Follow-Bot/issues">here</a> to report bugs.
   
-  ![image](https://cdn.discordapp.com/attachments/900107438479507458/992588023562780712/unknown.png)
+  ![image](https://cdn.discordapp.com/attachments/828798380309348376/993584405627023431/unknown.png)
 
 </div>
 
